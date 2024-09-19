@@ -398,4 +398,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 App.config
+<<<<<<< HEAD
 NEADatabase.accdb
+=======
+NEADatabase.accdb
+>>>>>>> c498a510f73e4bb364c363b21089fa1eacd9d7e7
