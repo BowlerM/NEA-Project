@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<add key="SMTP_EMAIL" value="your_email@example.com" />
+		<add key="SMTP_PASSWORD" value="your_password_here" />
+	</appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+    </startup>
+</configuration>
